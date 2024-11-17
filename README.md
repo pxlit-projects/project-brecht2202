@@ -1,6 +1,6 @@
 # Fullstack Java Project
 
-## Firstname Lastname (Class)
+## Brecht Nouboers (3AONC)
 Change the name and Class in the title above
 
 ## Folder structure
